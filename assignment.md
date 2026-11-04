@@ -1214,7 +1214,7 @@ Tick each step as you finish it.
 ## Part 1 · Plan and write
 
 - [x] 1 · Look before you build
-- [ ] 2 · Set up your studio
+- [x] 2 · Set up your studio
 - [ ] 3 · Your brand voice
 - [ ] 4 · Plan the campaign
 - [ ] 5 · Practice leads
@@ -1235,4 +1235,4 @@ Tick each step as you finish it.
 - [ ] 14 · Package your studio kit
 - [ ] 15 · What customers love *(stretch)*
 
-**1 of 15 done**
+**2 of 15 done**
