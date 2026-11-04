@@ -148,6 +148,8 @@ This folder is my email studio. I use it to plan and write email campaigns for a
 business: the plan for a campaign, the emails themselves, and personalised versions for
 groups of customers.
 
+@brand/voice.md
+
 | Folder | What goes in it |
 | --- | --- |
 | `brand/` | The brand voice and style: words we use, words we avoid, promises we never make. |
